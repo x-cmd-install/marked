@@ -7,7 +7,7 @@ A markdown parser and compiler. Built for speed.
 - **Latest release**: `v18.0.12` (2026-09-07)
 - **Last commit**: 2026-09-08
 - **License**: NOASSERTION
-- **Stars**: 37134 · **Forks**: 3704 · **Open issues**: 1686 · **Contributors**: 232
+- **Stars**: 37132 · **Forks**: 3705 · **Open issues**: 1686 · **Contributors**: 232
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/marked> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:15:44Z._
+_Last regenerated: 2026-09-09T19:04:36Z._
