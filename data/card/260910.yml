@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.0.12"
   latestRelease: "v18.0.12"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:43:53Z
+  collectedAt: 2026-09-10T23:06:58Z
 timeline:
   created: 2011-07-24
   lastCommit: 2026-09-10
@@ -85,7 +85,7 @@ total:
   commit: 3845
 ---
 path: /home/runner/.x-repo/github.com/markedjs/marked
-collectedAt: 2026-09-10T20:43:58Z
+collectedAt: 2026-09-10T23:07:01Z
 loc:
   Json:
     code: 19639
