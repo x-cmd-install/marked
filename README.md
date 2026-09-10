@@ -22,23 +22,22 @@ x install marked
 
 - **Latest**: `v18.0.12` (2026-09-07)
 - **Last commit**: 2026-09-10
-- **Published**: 2026-09-07T20:38:19Z
 
 ## Popularity
 
-- **Stars**: 37,132 · **Forks**: 3,705 · **Open issues**: 1,686 · **Contributors**: 232
+- **Stars**: 37,132 · **Forks**: 3,707 · **Open issues**: 1,686 · **Contributors**: 232
 
 ## Totals (cumulative)
 
-- **Releases**: 181 · **Merged PRs**: 1761 · **Open PRs**: 8 · **Closed issues**: 1678 · **Open issues**: 8 · **Commits**: 3845
+- **Releases**: 181 · **Merged PRs**: 1761 · **Open PRs**: 9 · **Closed issues**: 1678 · **Open issues**: 8 · **Commits**: 3845
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 25 | 7 | 1 | 1 | 30 |
-| 90d | 2026-06-12 | 7 | 65 | 8 | 11 | 2 | 72 |
-| 360d | 2025-09-15 | 23 | 194 | 8 | 76 | 4 | 219 |
+| 30d | 2026-08-11 | 3 | 25 | 8 | 1 | 1 | 30 |
+| 90d | 2026-06-12 | 7 | 65 | 9 | 11 | 2 | 72 |
+| 360d | 2025-09-15 | 23 | 194 | 9 | 76 | 4 | 219 |
 
 ## Code size
 
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `marked` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/marked.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/marked.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:23:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:45Z._
