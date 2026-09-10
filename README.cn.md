@@ -12,6 +12,28 @@ A markdown parser and compiler. Built for speed.
 x install marked
 ```
 
+## 代码规模
+
+合计: **34,218** 行代码（覆盖前 5 种语言、共 **260** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Json | 19,639 | 0 | 0 | 8 |
+| JavaScript | 6,124 | 96 | 468 | 40 |
+| Html | 4,223 | 38 | 659 | 192 |
+| TypeScript | 3,342 | 457 | 464 | 15 |
+| Css | 698 | 54 | 139 | 5 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **7.5 / 10**
+
+评分最低的几项:
+
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/markedjs/marked>
@@ -36,30 +58,21 @@ x install marked
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 25 | 8 | 1 | 1 | 30 |
+| last60d | 2026-07-12 | 6 | 46 | 9 | 7 | 2 | 54 |
 | 90d | 2026-06-12 | 7 | 65 | 9 | 11 | 2 | 72 |
+| last180d | 2026-03-14 | 15 | 111 | 9 | 31 | 3 | 128 |
 | 360d | 2025-09-15 | 23 | 194 | 9 | 76 | 4 | 219 |
+| last720d | 2024-09-20 | 45 | 361 | 9 | 179 | 5 | 406 |
 
-## 代码规模
+## 发行版状态
 
-合计: **34,218** 行代码（覆盖前 5 种语言、共 **260** 个文件）。
+在 [repology.org](https://repology.org/project/marked) 上共有 **20** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**19** 个 ⚠️ 使用旧版本。
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Json | 19,639 | 0 | 0 | 8 |
-| JavaScript | 6,124 | 96 | 468 | 40 |
-| Html | 4,223 | 38 | 659 | 192 |
-| TypeScript | 3,342 | 457 | 464 | 15 |
-| Css | 698 | 54 | 139 | 5 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **7.5 / 10**
-
-评分最低的几项:
-
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `15.0.12` | ⚠️ outdated |
+| Homebrew | `18.0.12` | ✅ latest |
+| Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -70,4 +83,4 @@ marked 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:41:46Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:44:02Z._

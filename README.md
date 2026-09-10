@@ -12,6 +12,28 @@ A markdown parser and compiler. Built for speed.
 x install marked
 ```
 
+## Code insight
+
+Total: **34,218** lines of code across **260** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 19,639 | 0 | 0 | 8 |
+| JavaScript | 6,124 | 96 | 468 | 40 |
+| Html | 4,223 | 38 | 659 | 192 |
+| TypeScript | 3,342 | 457 | 464 | 15 |
+| Css | 698 | 54 | 139 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **7.5 / 10**
+
+Lowest-scoring checks:
+
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
+
 ## Source
 
 - **Upstream**: <https://github.com/markedjs/marked>
@@ -36,30 +58,21 @@ x install marked
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 3 | 25 | 8 | 1 | 1 | 30 |
+| last60d | 2026-07-12 | 6 | 46 | 9 | 7 | 2 | 54 |
 | 90d | 2026-06-12 | 7 | 65 | 9 | 11 | 2 | 72 |
+| last180d | 2026-03-14 | 15 | 111 | 9 | 31 | 3 | 128 |
 | 360d | 2025-09-15 | 23 | 194 | 9 | 76 | 4 | 219 |
+| last720d | 2024-09-20 | 45 | 361 | 9 | 179 | 5 | 406 |
 
-## Code size
+## Distribution status
 
-Total: **34,218** lines of code across **260** files in the top 5 languages.
+Reported by **20** distros on [repology.org](https://repology.org/project/marked). **1** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 19,639 | 0 | 0 | 8 |
-| JavaScript | 6,124 | 96 | 468 | 40 |
-| Html | 4,223 | 38 | 659 | 192 |
-| TypeScript | 3,342 | 457 | 464 | 15 |
-| Css | 698 | 54 | 139 | 5 |
-
-## OpenSSF Scorecard
-
-Overall score: **7.5 / 10**
-
-Lowest-scoring checks:
-
-- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `15.0.12` | ⚠️ outdated |
+| Homebrew | `18.0.12` | ✅ latest |
+| Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:41:45Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:44:02Z._
