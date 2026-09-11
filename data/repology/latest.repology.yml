@@ -63,8 +63,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 15.0.10
-  origversion: 15.0.10-1
+  version: 15.0.12
+  origversion: 15.0.12-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
@@ -74,8 +74,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 15.0.11
-  origversion: 15.0.11-1
+  version: 15.0.12
+  origversion: 15.0.12-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
@@ -91,11 +91,11 @@
   summary: A markdown parser built for speed
   licenses:
     - MIT
-- repo: epel_7
+- repo: epel_6
   srcname: marked
   visiblename: marked
   version: 0.3.2
-  origversion: 0.3.2-2.el7
+  origversion: 0.3.2-2.el6
   status: outdated
   summary: A markdown parser for Node.js built for speed
   licenses:
@@ -103,11 +103,11 @@
   categories:
     - System Environment/Libraries
   vulnerable: true
-- repo: epel_6
+- repo: epel_7
   srcname: marked
   visiblename: marked
   version: 0.3.2
-  origversion: 0.3.2-2.el6
+  origversion: 0.3.2-2.el7
   status: outdated
   summary: A markdown parser for Node.js built for speed
   licenses:
