@@ -3,8 +3,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 15.0.12
-  origversion: 15.0.12-1
+  version: 16.0.0
+  origversion: 16.0.0-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
