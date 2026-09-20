@@ -4,7 +4,7 @@
 
 A markdown parser and compiler. Built for speed.
 
-![marked](https://repo.x-cmd.io/marked.svg)
+[![x-cmd/install — marked Code Quality Monitoring Repo Card](https://repo.x-cmd.io/marked.svg)](https://x-cmd.com/install/marked)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,159 · **Forks**: 3,718 · **Open issues**: 1,688 · **Contributors**: 235
+- **Stars**: 37,167 · **Forks**: 3,722 · **Open issues**: 1,690 · **Contributors**: 235
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 1766 · **Open PRs**: 10 · **Closed issues**: 1678 · **Open issues**: 10 · **Commits**: 3851
+- **Releases**: 182 · **Merged PRs**: 1766 · **Open PRs**: 14 · **Closed issues**: 1678 · **Open issues**: 12 · **Commits**: 3851
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 21 | 9 | 0 | 1 | 29 |
-| last60d | 2026-07-20 | 7 | 43 | 9 | 6 | 3 | 51 |
-| 90d | 2026-06-20 | 8 | 66 | 10 | 11 | 3 | 75 |
-| last180d | 2026-03-22 | 15 | 109 | 10 | 29 | 5 | 126 |
-| 360d | 2025-09-23 | 24 | 196 | 10 | 75 | 6 | 222 |
-| last720d | 2024-09-28 | 46 | 361 | 10 | 176 | 7 | 407 |
+| 30d | 2026-08-21 | 3 | 18 | 12 | 0 | 3 | 29 |
+| last60d | 2026-07-22 | 6 | 42 | 13 | 6 | 5 | 51 |
+| 90d | 2026-06-22 | 8 | 63 | 14 | 11 | 5 | 75 |
+| last180d | 2026-03-24 | 15 | 105 | 14 | 28 | 7 | 126 |
+| 360d | 2025-09-25 | 24 | 196 | 14 | 75 | 8 | 222 |
+| last720d | 2024-09-30 | 46 | 356 | 14 | 175 | 9 | 407 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:29:57Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:23:44Z._
