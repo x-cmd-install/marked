@@ -4,7 +4,7 @@
 
 A markdown parser and compiler. Built for speed.
 
-[![x-cmd/install — marked Code Quality Monitoring Repo Card](https://repo.x-cmd.io/marked.svg)](https://x-cmd.com/install/marked)
+[![x-cmd/install — marked Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/marked.svg)](https://x-cmd.com/install/marked)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install marked
 
 ## Code insight
 
-Total: **34,580** lines of code across **284** files in the top 5 languages.
+Total: **34,613** lines of code across **285** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 19,628 | 0 | 0 | 8 |
-| JavaScript | 6,283 | 103 | 470 | 41 |
-| Html | 4,357 | 38 | 659 | 215 |
-| TypeScript | 3,422 | 477 | 471 | 15 |
+| JavaScript | 6,285 | 103 | 470 | 41 |
+| Html | 4,383 | 38 | 659 | 216 |
+| TypeScript | 3,427 | 480 | 471 | 15 |
 | Css | 698 | 54 | 139 | 5 |
 
 ## OpenSSF Scorecard
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v18.0.13` (2026-09-12)
-- **Last commit**: 2026-09-21
+- **Latest**: `v18.0.14` (2026-09-22)
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 37,192 · **Forks**: 3,725 · **Open issues**: 1,690 · **Contributors**: 236
+- **Stars**: 37,200 · **Forks**: 3,727 · **Open issues**: 1,690 · **Contributors**: 237
 
 ## Totals (cumulative)
 
-- **Releases**: 182 · **Merged PRs**: 1773 · **Open PRs**: 8 · **Closed issues**: 1679 · **Open issues**: 11 · **Commits**: 3858
+- **Releases**: 183 · **Merged PRs**: 1775 · **Open PRs**: 7 · **Closed issues**: 1680 · **Open issues**: 10 · **Commits**: 3861
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 24 | 7 | 0 | 3 | 31 |
-| last60d | 2026-07-24 | 6 | 48 | 7 | 7 | 4 | 55 |
-| 90d | 2026-06-24 | 8 | 69 | 8 | 10 | 4 | 80 |
-| last180d | 2026-03-26 | 15 | 110 | 8 | 29 | 6 | 130 |
-| 360d | 2025-09-27 | 24 | 203 | 8 | 76 | 7 | 229 |
-| last720d | 2024-10-02 | 46 | 363 | 8 | 175 | 8 | 409 |
+| 30d | 2026-08-24 | 4 | 25 | 5 | 1 | 2 | 34 |
+| last60d | 2026-07-25 | 7 | 50 | 6 | 8 | 3 | 58 |
+| 90d | 2026-06-25 | 9 | 70 | 7 | 11 | 3 | 83 |
+| last180d | 2026-03-27 | 16 | 112 | 7 | 30 | 5 | 133 |
+| 360d | 2025-09-28 | 25 | 205 | 7 | 77 | 6 | 232 |
+| last720d | 2024-10-03 | 47 | 364 | 7 | 176 | 7 | 412 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:23:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:39:38Z._
