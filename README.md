@@ -14,14 +14,14 @@ x install marked
 
 ## Code insight
 
-Total: **34,651** lines of code across **289** files in the top 5 languages.
+Total: **34,944** lines of code across **309** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 19,628 | 0 | 0 | 8 |
-| JavaScript | 6,302 | 110 | 471 | 44 |
-| Html | 4,387 | 38 | 662 | 217 |
-| TypeScript | 3,444 | 501 | 473 | 15 |
+| JavaScript | 6,402 | 110 | 482 | 45 |
+| Html | 4,564 | 39 | 662 | 236 |
+| TypeScript | 3,460 | 511 | 474 | 15 |
 | Css | 698 | 54 | 139 | 5 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v18.1.0` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 37,226 · **Forks**: 3,748 · **Open issues**: 1,692 · **Contributors**: 239
+- **Stars**: 37,227 · **Forks**: 3,751 · **Open issues**: 1,692 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 1780 · **Open PRs**: 15 · **Closed issues**: 1680 · **Open issues**: 12 · **Commits**: 3867
+- **Releases**: 184 · **Merged PRs**: 1788 · **Open PRs**: 9 · **Closed issues**: 1682 · **Open issues**: 10 · **Commits**: 3875
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 15 | 13 | 1 | 3 | 22 |
-| last60d | 2026-08-07 | 6 | 45 | 14 | 3 | 5 | 52 |
-| 90d | 2026-07-08 | 10 | 68 | 15 | 10 | 5 | 81 |
-| last180d | 2026-04-09 | 15 | 108 | 15 | 25 | 7 | 124 |
-| 360d | 2025-10-11 | 25 | 201 | 15 | 66 | 8 | 228 |
-| last720d | 2024-10-16 | 47 | 363 | 15 | 169 | 9 | 410 |
+| 30d | 2026-09-07 | 4 | 21 | 8 | 3 | 1 | 30 |
+| last60d | 2026-08-08 | 6 | 53 | 8 | 4 | 3 | 60 |
+| 90d | 2026-07-09 | 10 | 75 | 9 | 12 | 3 | 89 |
+| last180d | 2026-04-10 | 15 | 116 | 9 | 27 | 5 | 132 |
+| 360d | 2025-10-12 | 25 | 209 | 9 | 68 | 6 | 236 |
+| last720d | 2024-10-17 | 47 | 370 | 9 | 170 | 7 | 418 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:00Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:28:45Z._
