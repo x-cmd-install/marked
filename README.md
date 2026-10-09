@@ -14,13 +14,13 @@ x install marked
 
 ## Code insight
 
-Total: **34,944** lines of code across **309** files in the top 5 languages.
+Total: **34,960** lines of code across **310** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 19,628 | 0 | 0 | 8 |
 | JavaScript | 6,402 | 110 | 482 | 45 |
-| Html | 4,564 | 39 | 662 | 236 |
+| Html | 4,580 | 40 | 662 | 237 |
 | TypeScript | 3,460 | 511 | 474 | 15 |
 | Css | 698 | 54 | 139 | 5 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v18.1.0` (2026-10-05)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-09
 
 ## Popularity
 
-- **Stars**: 37,227 · **Forks**: 3,754 · **Open issues**: 1,692 · **Contributors**: 240
+- **Stars**: 37,228 · **Forks**: 3,755 · **Open issues**: 1,692 · **Contributors**: 241
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 1788 · **Open PRs**: 10 · **Closed issues**: 1682 · **Open issues**: 10 · **Commits**: 3875
+- **Releases**: 184 · **Merged PRs**: 1789 · **Open PRs**: 10 · **Closed issues**: 1682 · **Open issues**: 10 · **Commits**: 3876
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 3 | 21 | 9 | 3 | 1 | 30 |
-| last60d | 2026-08-09 | 6 | 53 | 9 | 4 | 3 | 60 |
-| 90d | 2026-07-10 | 9 | 75 | 10 | 12 | 3 | 89 |
-| last180d | 2026-04-11 | 15 | 116 | 10 | 27 | 5 | 132 |
-| 360d | 2025-10-13 | 25 | 209 | 10 | 68 | 6 | 236 |
-| last720d | 2024-10-18 | 47 | 370 | 10 | 170 | 7 | 418 |
+| 30d | 2026-09-09 | 3 | 22 | 9 | 3 | 1 | 31 |
+| last60d | 2026-08-10 | 6 | 53 | 9 | 4 | 2 | 61 |
+| 90d | 2026-07-11 | 9 | 76 | 10 | 12 | 3 | 90 |
+| last180d | 2026-04-12 | 15 | 117 | 10 | 27 | 5 | 133 |
+| 360d | 2025-10-14 | 25 | 210 | 10 | 68 | 6 | 237 |
+| last720d | 2024-10-19 | 47 | 371 | 10 | 170 | 7 | 419 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:28:24Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:32:20Z._
