@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v18.1.0` (2026-10-05)
-- **Last commit**: 2026-10-10
+- **Latest**: `v18.1.1` (2026-10-12)
+- **Last commit**: 2026-10-12
 
 ## Popularity
 
-- **Stars**: 37,231 · **Forks**: 3,760 · **Open issues**: 1,692 · **Contributors**: 242
+- **Stars**: 37,234 · **Forks**: 3,764 · **Open issues**: 1,692 · **Contributors**: 242
 
 ## Totals (cumulative)
 
-- **Releases**: 184 · **Merged PRs**: 1790 · **Open PRs**: 12 · **Closed issues**: 1682 · **Open issues**: 10 · **Commits**: 3877
+- **Releases**: 185 · **Merged PRs**: 1792 · **Open PRs**: 14 · **Closed issues**: 1682 · **Open issues**: 10 · **Commits**: 3880
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 18 | 11 | 3 | 1 | 26 |
-| last60d | 2026-08-13 | 6 | 54 | 11 | 4 | 2 | 55 |
-| 90d | 2026-07-14 | 9 | 71 | 11 | 10 | 3 | 82 |
-| last180d | 2026-04-15 | 15 | 117 | 12 | 27 | 5 | 125 |
-| 360d | 2025-10-17 | 25 | 209 | 12 | 66 | 6 | 228 |
-| last720d | 2024-10-22 | 47 | 366 | 12 | 168 | 7 | 414 |
+| 30d | 2026-09-13 | 3 | 18 | 13 | 3 | 1 | 29 |
+| last60d | 2026-08-14 | 7 | 56 | 13 | 4 | 2 | 58 |
+| 90d | 2026-07-15 | 10 | 73 | 13 | 10 | 3 | 85 |
+| last180d | 2026-04-16 | 16 | 119 | 14 | 27 | 5 | 128 |
+| 360d | 2025-10-18 | 25 | 211 | 14 | 66 | 6 | 231 |
+| last720d | 2024-10-23 | 48 | 368 | 14 | 168 | 7 | 417 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:36:32Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:18:00Z._
