@@ -1,3 +1,32 @@
+- repo: arch
+  subrepo: extra
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 17.0.0
+  origversion: 17.0.0-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 16.4.0
+  origversion: 16.4.0-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: marked
+  visiblename: marked
+  version: 18.1.1
+  origversion: null
+  status: newest
+  summary: Markdown parser and compiler built for speed
 - repo: manjaro_stable
   subrepo: extra
   srcname: marked
@@ -36,94 +65,12 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 16.4.2
-  origversion: 16.4.2-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: world
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 16.4.0
-  origversion: 16.4.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
   version: 17.0.0
   origversion: 17.0.0-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
     - MIT
-- repo: homebrew
-  srcname: marked
-  visiblename: marked
-  version: 18.1.1
-  origversion: null
-  status: newest
-  summary: Markdown parser and compiler built for speed
-- repo: fedora_41
-  subrepo: release
-  srcname: marked
-  binnames:
-    - marked
-    - nodejs-marked
-    - js-marked
-  visiblename: marked
-  version: 2.0.0
-  origversion: 2.0.0-9.fc41
-  status: outdated
-  summary: A markdown parser for Node.js built for speed
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: fedora_42
-  subrepo: release
-  srcname: marked
-  binnames:
-    - marked
-    - nodejs-marked
-    - js-marked
-  visiblename: marked
-  version: 2.0.0
-  origversion: 2.0.0-10.fc42
-  status: outdated
-  summary: A markdown parser for Node.js built for speed
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-  vulnerable: true
-- repo: rosa_2019_1
-  subrepo: contrib/release
-  srcname: marked
-  binnames:
-    - marked
-    - nodejs-marked
-    - js-marked
-  visiblename: marked
-  version: 2.1.3
-  origversion: 2.1.3-1
-  status: outdated
-  summary: A markdown parser for Node.js built for speed
-  maintainers:
-    - a.proklov@rosalinux.ru
-  licenses:
-    - MIT
-  categories:
-    - Development/Other
-  vulnerable: true
 - repo: epel_6
   srcname: marked
   visiblename: marked
@@ -194,6 +141,40 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: fedora_41
+  subrepo: release
+  srcname: marked
+  binnames:
+    - marked
+    - nodejs-marked
+    - js-marked
+  visiblename: marked
+  version: 2.0.0
+  origversion: 2.0.0-9.fc41
+  status: outdated
+  summary: A markdown parser for Node.js built for speed
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
+- repo: fedora_42
+  subrepo: release
+  srcname: marked
+  binnames:
+    - marked
+    - nodejs-marked
+    - js-marked
+  visiblename: marked
+  version: 2.0.0
+  origversion: 2.0.0-10.fc42
+  status: outdated
+  summary: A markdown parser for Node.js built for speed
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: fedora_43
   subrepo: release
   srcname: marked
@@ -244,4 +225,23 @@
     - MIT
   categories:
     - Unspecified
+  vulnerable: true
+- repo: rosa_2019_1
+  subrepo: contrib/release
+  srcname: marked
+  binnames:
+    - marked
+    - nodejs-marked
+    - js-marked
+  visiblename: marked
+  version: 2.1.3
+  origversion: 2.1.3-1
+  status: outdated
+  summary: A markdown parser for Node.js built for speed
+  maintainers:
+    - a.proklov@rosalinux.ru
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
   vulnerable: true
