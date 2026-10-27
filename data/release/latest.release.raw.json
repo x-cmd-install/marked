@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/markedjs/marked/releases/410579025",
-  "assets_url": "https://api.github.com/repos/markedjs/marked/releases/410579025/assets",
-  "upload_url": "https://uploads.github.com/repos/markedjs/marked/releases/410579025/assets{?name,label}",
-  "html_url": "https://github.com/markedjs/marked/releases/tag/v18.1.1",
-  "id": 410579025,
+  "url": "https://api.github.com/repos/markedjs/marked/releases/424383686",
+  "assets_url": "https://api.github.com/repos/markedjs/marked/releases/424383686/assets",
+  "upload_url": "https://uploads.github.com/repos/markedjs/marked/releases/424383686/assets{?name,label}",
+  "html_url": "https://github.com/markedjs/marked/releases/tag/v18.1.2",
+  "id": 424383686,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAB_9w84YePBR",
-  "tag_name": "v18.1.1",
+  "node_id": "RE_kwDOAB_9w84ZS5TG",
+  "tag_name": "v18.1.2",
   "target_commitish": "master",
-  "name": "v18.1.1",
+  "name": "v18.1.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-12T12:28:42Z",
-  "updated_at": "2026-10-12T12:28:54Z",
-  "published_at": "2026-10-12T12:28:54Z",
+  "created_at": "2026-10-26T14:54:00Z",
+  "updated_at": "2026-10-26T14:54:14Z",
+  "published_at": "2026-10-26T14:54:14Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/markedjs/marked/tarball/v18.1.1",
-  "zipball_url": "https://api.github.com/repos/markedjs/marked/zipball/v18.1.1",
-  "body": "## [18.1.1](https://github.com/markedjs/marked/compare/v18.1.0...v18.1.1) (2026-10-12)\n\n\n### Bug Fixes\n\n* **cli:** honor an explicitly empty string input ([#4113](https://github.com/markedjs/marked/issues/4113)) ([ec3a4e5](https://github.com/markedjs/marked/commit/ec3a4e511aa0d60b3e9ab8aa0c769407cdaf08d9))\n* end blockquote before a lazy line after a heading, hr or html block ([#4115](https://github.com/markedjs/marked/issues/4115)) ([9e64a6a](https://github.com/markedjs/marked/commit/9e64a6a3fe6b826d113fc337c21ebe345455a842))\n* keep a backslash in a code span from hiding emphasis ([#4117](https://github.com/markedjs/marked/issues/4117)) ([6a57018](https://github.com/markedjs/marked/commit/6a57018fc906333d358981682fd693e4bb85940f))\n* keep a decoded character reference from forming a new one ([#4111](https://github.com/markedjs/marked/issues/4111)) ([6bbac0c](https://github.com/markedjs/marked/commit/6bbac0cdb72cc3038baefe768c03f788e46126a5)), closes [#38](https://github.com/markedjs/marked/issues/38) [#112](https://github.com/markedjs/marked/issues/112)\n* let indented and type 3-5 html blocks interrupt a paragraph ([#4124](https://github.com/markedjs/marked/issues/4124)) ([eaa1fff](https://github.com/markedjs/marked/commit/eaa1fffb30fa334cc11ab93f1e5aaa1d2b916e7c))\n* make walkTokens linear by appending values in place ([#4121](https://github.com/markedjs/marked/issues/4121)) ([627d9ae](https://github.com/markedjs/marked/commit/627d9ae4e5ea403580782a8f6e21fbc8bf56f4c1)), closes [#4120](https://github.com/markedjs/marked/issues/4120)\n* match pre, script, style and textarea as whole tag names ([#4114](https://github.com/markedjs/marked/issues/4114)) ([0db74cb](https://github.com/markedjs/marked/commit/0db74cb0194f3acb5a53b14a73c2cd087c3c9981))\n* preserve enclosing link state after parsing images ([#4123](https://github.com/markedjs/marked/issues/4123)) ([cc07bb9](https://github.com/markedjs/marked/commit/cc07bb9cb62bfd41a724d0a426f194188d7b35c1))\n* respect tab stops in list continuation indentation ([#4119](https://github.com/markedjs/marked/issues/4119)) ([4bd2528](https://github.com/markedjs/marked/commit/4bd252811fb24ca6b7e22f60c39b89efc2b265d2))\n\n\n### Performance Improvements\n\n* avoid repeated raw string copies in nested lists ([#4082](https://github.com/markedjs/marked/issues/4082)) ([7e8754d](https://github.com/markedjs/marked/commit/7e8754d60b3c37be30aa17106ada623d1f0cf9db))\n\n\n\n",
-  "reactions": {
-    "url": "https://api.github.com/repos/markedjs/marked/releases/410579025/reactions",
-    "total_count": 1,
-    "+1": 1,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 0
-  }
+  "tarball_url": "https://api.github.com/repos/markedjs/marked/tarball/v18.1.2",
+  "zipball_url": "https://api.github.com/repos/markedjs/marked/zipball/v18.1.2",
+  "body": "## [18.1.2](https://github.com/markedjs/marked/compare/v18.1.1...v18.1.2) (2026-10-26)\n\n\n### Bug Fixes\n\n* allow a tab or end of input after a type 6 html block tag name ([#4128](https://github.com/markedjs/marked/issues/4128)) ([e09c40d](https://github.com/markedjs/marked/commit/e09c40dfc78aa284a33b11a65bc5e16365069f46))\n* apply emphasis flanking and rules 9-10 to the whole delimiter run ([#4145](https://github.com/markedjs/marked/issues/4145)) ([5d8e234](https://github.com/markedjs/marked/commit/5d8e2340d78c25c611e1d8215b302fd48f01a601))\n* **cli:** await config functions before parsing ([#4138](https://github.com/markedjs/marked/issues/4138)) ([3a11ad1](https://github.com/markedjs/marked/commit/3a11ad148397b7628256f5e5d76a454213480c63))\n* **cli:** create no-clobber output files atomically ([#4135](https://github.com/markedjs/marked/issues/4135)) ([e7c4f64](https://github.com/markedjs/marked/commit/e7c4f64c433c46044fc1aba451ab1c162af704a7))\n* do not continue a block quote paragraph from a whitespace-only line ([#4134](https://github.com/markedjs/marked/issues/4134)) ([42f34a8](https://github.com/markedjs/marked/commit/42f34a8411c4c14ca2019d69e6b1771f663248f9))\n* expand a tab after the block quote marker to the next tab stop ([#4110](https://github.com/markedjs/marked/issues/4110)) ([2d3899b](https://github.com/markedjs/marked/commit/2d3899bf7c9e604805c4937b16dd0022480e64ce))\n* honor per-call async options when composing hooks ([#4139](https://github.com/markedjs/marked/issues/4139)) ([379be9d](https://github.com/markedjs/marked/commit/379be9d65609d4c8c017ac873801573fe77420d4))\n* keep a line starting with # but no space in the list item ([#4127](https://github.com/markedjs/marked/issues/4127)) ([6b63189](https://github.com/markedjs/marked/commit/6b63189546f7dd842adac65c799c749a00bdd598))\n* keep duplicate link definitions in the tokens ([#4132](https://github.com/markedjs/marked/issues/4132)) ([2784acc](https://github.com/markedjs/marked/commit/2784acce375c8529071c04ae90a05814d02fad7a))\n* keep lazy lines after a list in a nested blockquote ([#4137](https://github.com/markedjs/marked/issues/4137)) ([38c7e55](https://github.com/markedjs/marked/commit/38c7e552072e60681369c4ea393787f49fd761bb))\n* keep lazy setext underlines in list items as text ([#4126](https://github.com/markedjs/marked/issues/4126)) ([398234c](https://github.com/markedjs/marked/commit/398234ccea3b3a4f2353fef1decda29a60f29486))\n* render nested image alt formatting as plain text ([#4131](https://github.com/markedjs/marked/issues/4131)) ([15f59bb](https://github.com/markedjs/marked/commit/15f59bb88bd462876cbc3af075baf73ec9337e31))\n* stop an unclosed inline raw tag from unescaping later blocks ([#4130](https://github.com/markedjs/marked/issues/4130)) ([4562b6f](https://github.com/markedjs/marked/commit/4562b6f97988a75a9f20234626f8bbaab72af927))\n\n\n### Performance Improvements\n\n* ~16% faster parsing by skipping em/strong masking for runs without *, _ or ~ ([#4142](https://github.com/markedjs/marked/issues/4142)) ([f0fd3e0](https://github.com/markedjs/marked/commit/f0fd3e0e22c1acc7b5a65ebfe54138af38955e10))\n\n\n\n"
 }
