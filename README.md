@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v18.1.2` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 
 ## Popularity
 
-- **Stars**: 37,273 · **Forks**: 3,798 · **Open issues**: 1,695 · **Contributors**: 255
+- **Stars**: 37,272 · **Forks**: 3,797 · **Open issues**: 1,695 · **Contributors**: 255
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 1814 · **Open PRs**: 19 · **Closed issues**: 1684 · **Open issues**: 11 · **Commits**: 3903
+- **Releases**: 186 · **Merged PRs**: 1815 · **Open PRs**: 19 · **Closed issues**: 1684 · **Open issues**: 11 · **Commits**: 3904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 3 | 30 | 17 | 2 | 2 | 40 |
-| last60d | 2026-08-28 | 6 | 63 | 18 | 5 | 3 | 74 |
-| 90d | 2026-07-29 | 10 | 87 | 18 | 12 | 4 | 100 |
-| last180d | 2026-04-30 | 15 | 135 | 19 | 25 | 6 | 147 |
-| 360d | 2025-11-01 | 26 | 224 | 19 | 62 | 7 | 248 |
-| last720d | 2024-11-06 | 49 | 377 | 19 | 164 | 8 | 431 |
+| 30d | 2026-09-28 | 3 | 31 | 17 | 2 | 2 | 41 |
+| last60d | 2026-08-29 | 6 | 63 | 18 | 5 | 3 | 75 |
+| 90d | 2026-07-30 | 10 | 87 | 18 | 12 | 4 | 101 |
+| last180d | 2026-05-01 | 15 | 136 | 19 | 25 | 6 | 148 |
+| 360d | 2025-11-02 | 26 | 225 | 19 | 62 | 7 | 249 |
+| last720d | 2024-11-07 | 49 | 378 | 19 | 163 | 8 | 432 |
 
 ## Distribution status
 
@@ -71,7 +71,7 @@ Reported by **18** distros on [repology.org](https://repology.org/project/marked
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `17.0.0` | ⚠️ outdated |
-| Homebrew | `18.1.1` | ✅ latest |
+| Homebrew | `18.1.2` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -83,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:33:46Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:05:40Z._
