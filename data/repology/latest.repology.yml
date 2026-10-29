@@ -1,3 +1,25 @@
+- repo: arch
+  subrepo: extra
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 17.0.1
+  origversion: 17.0.1-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: world
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 16.4.0
+  origversion: 16.4.0-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: marked
   visiblename: marked
@@ -43,30 +65,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 17.0.0
-  origversion: 17.0.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 17.0.0
-  origversion: 17.0.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-- repo: artix
-  subrepo: world
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 16.4.0
-  origversion: 16.4.0-1
+  version: 17.0.1
+  origversion: 17.0.1-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
