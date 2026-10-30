@@ -7,7 +7,7 @@ about:
   latestVersion: "v18.1.2"
   latestRelease: "v18.1.2"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:12:23Z
+  collectedAt: 2026-10-30T06:19:55Z
 timeline:
   created: 2011-07-24
   lastCommit: 2026-10-28
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 37275
   watcher: 379
-  fork: 3798
+  fork: 3800
   release: 186
   contributor: 255
   pullRequest: 2312
@@ -29,31 +29,31 @@ language:
 totalBytes: 417102
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 3
-    mergedPR: 30
-    openPR: 17
-    closedIssue: 2
+    mergedPR: 27
+    openPR: 16
+    closedIssue: 1
     openIssue: 2
     commit: 41
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 6
-    mergedPR: 59
+    mergedPR: 56
     openPR: 18
     closedIssue: 5
     openIssue: 3
     commit: 75
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 10
     mergedPR: 87
     openPR: 18
-    closedIssue: 10
+    closedIssue: 9
     openIssue: 4
     commit: 101
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 14
     mergedPR: 135
     openPR: 19
@@ -61,17 +61,17 @@ recent:
     openIssue: 6
     commit: 148
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 26
-    mergedPR: 221
+    mergedPR: 220
     openPR: 19
     closedIssue: 61
     openIssue: 7
     commit: 249
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 48
-    mergedPR: 378
+    mergedPR: 375
     openPR: 19
     closedIssue: 162
     openIssue: 8
@@ -85,7 +85,7 @@ total:
   commit: 3904
 ---
 path: /home/runner/.x-repo/github.com/markedjs/marked
-collectedAt: 2026-10-29T06:12:27Z
+collectedAt: 2026-10-30T06:19:59Z
 loc:
   Json:
     code: 19654
