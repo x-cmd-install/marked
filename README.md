@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,275 · **Forks**: 3,800 · **Open issues**: 1,695 · **Contributors**: 255
+- **Stars**: 37,278 · **Forks**: 3,801 · **Open issues**: 1,695 · **Contributors**: 255
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 3 | 27 | 16 | 1 | 2 | 41 |
-| last60d | 2026-08-31 | 6 | 56 | 18 | 5 | 3 | 75 |
-| 90d | 2026-08-01 | 10 | 87 | 18 | 9 | 4 | 101 |
-| last180d | 2026-05-03 | 14 | 135 | 19 | 25 | 6 | 148 |
-| 360d | 2025-11-04 | 26 | 220 | 19 | 61 | 7 | 249 |
-| last720d | 2024-11-09 | 48 | 375 | 19 | 162 | 8 | 428 |
+| 30d | 2026-10-01 | 3 | 27 | 16 | 1 | 2 | 41 |
+| last60d | 2026-09-01 | 6 | 55 | 18 | 5 | 3 | 75 |
+| 90d | 2026-08-02 | 10 | 85 | 18 | 8 | 4 | 101 |
+| last180d | 2026-05-04 | 14 | 134 | 19 | 24 | 6 | 148 |
+| 360d | 2025-11-05 | 26 | 220 | 19 | 61 | 7 | 249 |
+| last720d | 2024-11-10 | 47 | 374 | 19 | 162 | 8 | 423 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **18** distros on [repology.org](https://repology.org/project/marked
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `17.0.1` | ⚠️ outdated |
+| Arch | `17.0.2` | ⚠️ outdated |
 | Homebrew | `18.1.2` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:20:04Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:09:04Z._
