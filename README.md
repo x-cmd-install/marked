@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v18.1.2` (2026-10-26)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-31
 
 ## Popularity
 
-- **Stars**: 37,278 · **Forks**: 3,801 · **Open issues**: 1,695 · **Contributors**: 255
+- **Stars**: 37,278 · **Forks**: 3,803 · **Open issues**: 1,695 · **Contributors**: 255
 
 ## Totals (cumulative)
 
-- **Releases**: 186 · **Merged PRs**: 1815 · **Open PRs**: 19 · **Closed issues**: 1684 · **Open issues**: 11 · **Commits**: 3904
+- **Releases**: 186 · **Merged PRs**: 1816 · **Open PRs**: 20 · **Closed issues**: 1685 · **Open issues**: 10 · **Commits**: 3905
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 3 | 27 | 16 | 1 | 2 | 41 |
-| last60d | 2026-09-01 | 6 | 55 | 18 | 5 | 3 | 75 |
-| 90d | 2026-08-02 | 10 | 85 | 18 | 8 | 4 | 101 |
-| last180d | 2026-05-04 | 14 | 134 | 19 | 24 | 6 | 148 |
-| 360d | 2025-11-05 | 26 | 220 | 19 | 61 | 7 | 249 |
-| last720d | 2024-11-10 | 47 | 374 | 19 | 162 | 8 | 423 |
+| 30d | 2026-10-02 | 3 | 26 | 17 | 2 | 1 | 42 |
+| last60d | 2026-09-02 | 6 | 55 | 19 | 6 | 2 | 76 |
+| 90d | 2026-08-03 | 10 | 85 | 19 | 9 | 3 | 102 |
+| last180d | 2026-05-05 | 14 | 134 | 20 | 24 | 5 | 149 |
+| 360d | 2025-11-06 | 26 | 221 | 20 | 62 | 6 | 250 |
+| last720d | 2024-11-11 | 47 | 371 | 20 | 163 | 7 | 423 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **18** distros on [repology.org](https://repology.org/project/marked
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `17.0.2` | ⚠️ outdated |
+| Arch | `17.0.3` | ⚠️ outdated |
 | Homebrew | `18.1.2` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:09:04Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:30:30Z._
