@@ -12,7 +12,7 @@
 - repo: homebrew
   srcname: marked
   visiblename: marked
-  version: 18.1.3
+  version: 18.2.0
   origversion: null
   status: newest
   summary: Markdown parser and compiler built for speed
@@ -32,8 +32,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 18.0.0
-  origversion: 18.0.0-1
+  version: 18.0.1
+  origversion: 18.0.1-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
@@ -211,8 +211,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 18.0.0
-  origversion: 18.0.0-1
+  version: 18.0.1
+  origversion: 18.0.1-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
