@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,301 · **Forks**: 3,826 · **Open issues**: 1,697 · **Contributors**: 272
+- **Stars**: 37,306 · **Forks**: 3,825 · **Open issues**: 1,697 · **Contributors**: 272
 
 ## Totals (cumulative)
 
@@ -57,20 +57,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 4 | 44 | 25 | 2 | 3 | 56 |
-| last60d | 2026-09-12 | 7 | 73 | 26 | 6 | 3 | 86 |
-| 90d | 2026-08-13 | 10 | 109 | 26 | 8 | 3 | 121 |
-| last180d | 2026-05-15 | 16 | 160 | 27 | 23 | 6 | 177 |
-| 360d | 2025-11-16 | 26 | 243 | 27 | 58 | 7 | 271 |
-| last720d | 2024-11-21 | 47 | 397 | 27 | 161 | 8 | 445 |
+| 30d | 2026-10-13 | 3 | 40 | 25 | 2 | 3 | 56 |
+| last60d | 2026-09-13 | 6 | 71 | 26 | 6 | 3 | 86 |
+| 90d | 2026-08-14 | 10 | 109 | 26 | 8 | 3 | 121 |
+| last180d | 2026-05-16 | 16 | 160 | 27 | 23 | 5 | 177 |
+| 360d | 2025-11-17 | 26 | 242 | 27 | 58 | 7 | 271 |
+| last720d | 2024-11-22 | 47 | 397 | 27 | 161 | 8 | 445 |
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/marked). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/marked). **1** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `18.0.1` | ⚠️ outdated |
+| Arch | `18.0.2` | ⚠️ outdated |
 | Homebrew | `18.2.0` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:51:06Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:53:43Z._
