@@ -9,13 +9,6 @@
   summary: A markdown parser built for speed
   licenses:
     - MIT
-- repo: homebrew
-  srcname: marked
-  visiblename: marked
-  version: 18.2.0
-  origversion: null
-  status: newest
-  summary: Markdown parser and compiler built for speed
 - repo: manjaro_stable
   subrepo: extra
   srcname: marked
@@ -32,6 +25,24 @@
   srcname: marked
   binname: marked
   visiblename: marked
+  version: 18.0.2
+  origversion: 18.0.2-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: marked
+  visiblename: marked
+  version: 18.2.0
+  origversion: null
+  status: newest
+  summary: Markdown parser and compiler built for speed
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: marked
+  binname: marked
+  visiblename: marked
   version: 18.0.1
   origversion: 18.0.1-1
   status: outdated
@@ -39,17 +50,17 @@
   licenses:
     - MIT
   vulnerable: true
-- repo: epel_6
+- repo: manjaro_testing
+  subrepo: extra
   srcname: marked
+  binname: marked
   visiblename: marked
-  version: 0.3.2
-  origversion: 0.3.2-2.el6
+  version: 18.0.0
+  origversion: 18.0.0-1
   status: outdated
-  summary: A markdown parser for Node.js built for speed
+  summary: A markdown parser built for speed
   licenses:
     - MIT
-  categories:
-    - System Environment/Libraries
   vulnerable: true
 - repo: epel_7
   srcname: marked
@@ -194,42 +205,6 @@
   categories:
     - Unspecified
   vulnerable: true
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 18.0.0
-  origversion: 18.0.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 18.0.1
-  origversion: 18.0.1-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-  vulnerable: true
-- repo: parabola
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 18.0.0
-  origversion: 18.0.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
-  vulnerable: true
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: marked
@@ -248,4 +223,16 @@
     - MIT
   categories:
     - Development/Other
+  vulnerable: true
+- repo: parabola
+  subrepo: extra
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 18.0.0
+  origversion: 18.0.0-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
   vulnerable: true
