@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,304 · **Forks**: 3,828 · **Open issues**: 1,698 · **Contributors**: 274
+- **Stars**: 37,305 · **Forks**: 3,830 · **Open issues**: 1,698 · **Contributors**: 274
 
 ## Totals (cumulative)
 
-- **Releases**: 188 · **Merged PRs**: 1848 · **Open PRs**: 25 · **Closed issues**: 1686 · **Open issues**: 12 · **Commits**: 3940
+- **Releases**: 188 · **Merged PRs**: 1848 · **Open PRs**: 26 · **Closed issues**: 1686 · **Open issues**: 12 · **Commits**: 3940
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 3 | 43 | 23 | 1 | 4 | 59 |
-| last60d | 2026-09-15 | 6 | 73 | 24 | 6 | 4 | 89 |
-| 90d | 2026-08-16 | 10 | 110 | 24 | 7 | 4 | 124 |
-| last180d | 2026-05-18 | 16 | 162 | 25 | 23 | 6 | 180 |
-| 360d | 2025-11-19 | 26 | 244 | 25 | 58 | 8 | 274 |
-| last720d | 2024-11-24 | 47 | 399 | 25 | 160 | 9 | 448 |
+| 30d | 2026-10-16 | 3 | 42 | 24 | 1 | 4 | 59 |
+| last60d | 2026-09-16 | 6 | 73 | 25 | 6 | 4 | 89 |
+| 90d | 2026-08-17 | 10 | 106 | 25 | 7 | 4 | 124 |
+| last180d | 2026-05-19 | 16 | 161 | 26 | 23 | 6 | 180 |
+| 360d | 2025-11-20 | 26 | 244 | 26 | 58 | 7 | 274 |
+| last720d | 2024-11-25 | 47 | 397 | 26 | 158 | 9 | 447 |
 
 ## Distribution status
 
@@ -70,7 +70,7 @@ Reported by **17** distros on [repology.org](https://repology.org/project/marked
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `18.0.2` | ⚠️ outdated |
+| Arch | `18.0.3` | ⚠️ outdated |
 | Homebrew | `18.2.0` | ✅ latest |
 | Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
@@ -83,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:56:36Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:10:34Z._
