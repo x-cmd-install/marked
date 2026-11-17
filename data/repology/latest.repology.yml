@@ -3,8 +3,8 @@
   srcname: marked
   binname: marked
   visiblename: marked
-  version: 18.0.3
-  origversion: 18.0.3-1
+  version: 18.0.4
+  origversion: 18.0.4-1
   status: outdated
   summary: A markdown parser built for speed
   licenses:
@@ -38,6 +38,17 @@
   summary: A markdown parser built for speed
   licenses:
     - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: marked
+  binname: marked
+  visiblename: marked
+  version: 18.0.3
+  origversion: 18.0.3-1
+  status: outdated
+  summary: A markdown parser built for speed
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: marked
@@ -49,6 +60,18 @@
   summary: A markdown parser built for speed
   licenses:
     - MIT
+- repo: epel_7
+  srcname: marked
+  visiblename: marked
+  version: 0.3.2
+  origversion: 0.3.2-2.el7
+  status: outdated
+  summary: A markdown parser for Node.js built for speed
+  licenses:
+    - MIT
+  categories:
+    - System Environment/Libraries
+  vulnerable: true
 - repo: epel_8
   srcname: marked
   visiblename: marked
@@ -94,18 +117,6 @@
     - MIT
   categories:
     - Unspecified
-  vulnerable: true
-- repo: epel_7
-  srcname: marked
-  visiblename: marked
-  version: 0.3.2
-  origversion: 0.3.2-2.el7
-  status: outdated
-  summary: A markdown parser for Node.js built for speed
-  licenses:
-    - MIT
-  categories:
-    - System Environment/Libraries
   vulnerable: true
 - repo: fedora_41
   subrepo: release
@@ -175,6 +186,23 @@
   categories:
     - Unspecified
   vulnerable: true
+- repo: fedora_45
+  subrepo: release
+  srcname: marked
+  binnames:
+    - marked
+    - nodejs-marked
+    - js-marked
+  visiblename: marked
+  version: 2.0.0
+  origversion: 2.0.0-14.fc45
+  status: outdated
+  summary: A markdown parser for Node.js built for speed
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+  vulnerable: true
 - repo: fedora_rawhide
   subrepo: development
   srcname: marked
@@ -191,18 +219,6 @@
     - MIT
   categories:
     - Unspecified
-  vulnerable: true
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: marked
-  binname: marked
-  visiblename: marked
-  version: 18.0.0
-  origversion: 18.0.0-1
-  status: outdated
-  summary: A markdown parser built for speed
-  licenses:
-    - MIT
   vulnerable: true
 - repo: parabola
   subrepo: extra
