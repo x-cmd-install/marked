@@ -47,22 +47,32 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 37,328 · **Forks**: 3,849 · **Open issues**: 1,704 · **Contributors**: 282
+- **Stars**: 37,329 · **Forks**: 3,853 · **Open issues**: 1,705 · **Contributors**: 282
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 1878 · **Open PRs**: 42 · **Closed issues**: 1690 · **Open issues**: 14 · **Commits**: 3977
+- **Releases**: 190 · **Merged PRs**: 1878 · **Open PRs**: 44 · **Closed issues**: 1690 · **Open issues**: 15 · **Commits**: 3977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 52 | 39 | 4 | 5 | 71 |
-| last60d | 2026-09-27 | 7 | 95 | 41 | 7 | 6 | 112 |
-| 90d | 2026-08-28 | 10 | 128 | 41 | 11 | 6 | 147 |
-| last180d | 2026-05-30 | 17 | 189 | 42 | 24 | 8 | 207 |
-| 360d | 2025-12-01 | 27 | 272 | 42 | 59 | 9 | 302 |
-| last720d | 2024-12-06 | 48 | 426 | 42 | 158 | 11 | 480 |
+| 30d | 2026-10-28 | 4 | 51 | 41 | 4 | 6 | 71 |
+| last60d | 2026-09-28 | 7 | 95 | 43 | 7 | 7 | 112 |
+| 90d | 2026-08-29 | 10 | 127 | 43 | 11 | 7 | 147 |
+| last180d | 2026-05-31 | 17 | 188 | 44 | 24 | 9 | 207 |
+| 360d | 2025-12-02 | 27 | 272 | 44 | 58 | 10 | 302 |
+| last720d | 2024-12-07 | 48 | 426 | 44 | 158 | 12 | 480 |
+
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/marked). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `18.0.9` | ⚠️ outdated |
+| Homebrew | `18.3.0` | ✅ latest |
+| Fedora rawhide | `2.0.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +83,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:56:26Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:55:02Z._
