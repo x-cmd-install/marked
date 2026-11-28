@@ -14,14 +14,14 @@ x install marked
 
 ## Code insight
 
-Total: **39,326** lines of code across **382** files in the top 5 languages.
+Total: **39,463** lines of code across **384** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 21,834 | 0 | 0 | 8 |
-| JavaScript | 7,168 | 116 | 553 | 57 |
-| Html | 5,323 | 41 | 690 | 295 |
-| TypeScript | 4,111 | 659 | 511 | 17 |
+| JavaScript | 7,200 | 116 | 559 | 57 |
+| Html | 5,423 | 41 | 690 | 297 |
+| TypeScript | 4,116 | 661 | 511 | 17 |
 | Css | 698 | 54 | 139 | 5 |
 
 ## OpenSSF Scorecard
@@ -43,36 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v18.3.0` (2026-11-24)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 37,329 · **Forks**: 3,853 · **Open issues**: 1,705 · **Contributors**: 282
+- **Stars**: 37,328 · **Forks**: 3,861 · **Open issues**: 1,708 · **Contributors**: 284
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 1878 · **Open PRs**: 44 · **Closed issues**: 1690 · **Open issues**: 15 · **Commits**: 3977
+- **Releases**: 190 · **Merged PRs**: 1884 · **Open PRs**: 43 · **Closed issues**: 1690 · **Open issues**: 18 · **Commits**: 3980
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 51 | 41 | 4 | 6 | 71 |
-| last60d | 2026-09-28 | 7 | 95 | 43 | 7 | 7 | 112 |
-| 90d | 2026-08-29 | 10 | 127 | 43 | 11 | 7 | 147 |
-| last180d | 2026-05-31 | 17 | 188 | 44 | 24 | 9 | 207 |
-| 360d | 2025-12-02 | 27 | 272 | 44 | 58 | 10 | 302 |
-| last720d | 2024-12-07 | 48 | 426 | 44 | 158 | 12 | 480 |
-
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/marked). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `18.0.9` | ⚠️ outdated |
-| Homebrew | `18.3.0` | ✅ latest |
-| Fedora rawhide | `2.0.0` | ⚠️ outdated |
+| 30d | 2026-10-29 | 4 | 54 | 41 | 4 | 9 | 76 |
+| last60d | 2026-09-29 | 7 | 97 | 42 | 7 | 10 | 118 |
+| 90d | 2026-08-30 | 10 | 126 | 42 | 11 | 10 | 153 |
+| last180d | 2026-06-01 | 17 | 191 | 43 | 24 | 12 | 213 |
+| 360d | 2025-12-03 | 27 | 275 | 43 | 57 | 13 | 308 |
+| last720d | 2024-12-08 | 48 | 429 | 43 | 158 | 15 | 483 |
 
 ## Improve this data
 
@@ -83,4 +73,4 @@ Install metadata for marked lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:55:02Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:19:24Z._
