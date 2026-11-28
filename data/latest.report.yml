@@ -2,90 +2,90 @@ about:
   description: "A markdown parser and compiler. Built for speed."
   license: NOASSERTION
   homepage: https://marked.js.org
-  head: 393e1dc
+  head: fe0d349
   archived: false
   latestVersion: "v18.3.0"
   latestRelease: "v18.3.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:54:51Z
+  collectedAt: 2026-11-28T08:19:00Z
 timeline:
   created: 2011-07-24
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-24
   lastRelease: 2026-11-24
   lastPrerelease: 
 popularity:
-  star: 37329
+  star: 37328
   watcher: 376
-  fork: 3853
+  fork: 3861
   release: 190
-  contributor: 282
-  pullRequest: 2405
-  issue: 1705
+  contributor: 284
+  pullRequest: 2413
+  issue: 1708
 language:
-  TypeScript: 178201
-  JavaScript: 174771
-  HTML: 123943
-totalBytes: 476915
+  TypeScript: 178492
+  JavaScript: 176254
+  HTML: 126339
+totalBytes: 481085
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 4
-    mergedPR: 51
+    mergedPR: 54
     openPR: 41
     closedIssue: 4
-    openIssue: 6
-    commit: 71
-  last60d:
-    since: 2026-09-28
-    release: 7
-    mergedPR: 95
-    openPR: 43
-    closedIssue: 7
-    openIssue: 7
-    commit: 112
-  last90d:
-    since: 2026-08-29
-    release: 10
-    mergedPR: 127
-    openPR: 43
-    closedIssue: 11
-    openIssue: 7
-    commit: 147
-  last180d:
-    since: 2026-05-31
-    release: 17
-    mergedPR: 188
-    openPR: 44
-    closedIssue: 24
     openIssue: 9
-    commit: 207
-  last360d:
-    since: 2025-12-02
-    release: 27
-    mergedPR: 272
-    openPR: 44
-    closedIssue: 58
+    commit: 76
+  last60d:
+    since: 2026-09-29
+    release: 7
+    mergedPR: 97
+    openPR: 42
+    closedIssue: 7
     openIssue: 10
-    commit: 302
-  last720d:
-    since: 2024-12-07
-    release: 48
-    mergedPR: 426
-    openPR: 44
-    closedIssue: 158
+    commit: 118
+  last90d:
+    since: 2026-08-30
+    release: 10
+    mergedPR: 126
+    openPR: 42
+    closedIssue: 11
+    openIssue: 10
+    commit: 153
+  last180d:
+    since: 2026-06-01
+    release: 17
+    mergedPR: 191
+    openPR: 43
+    closedIssue: 24
     openIssue: 12
-    commit: 480
+    commit: 213
+  last360d:
+    since: 2025-12-03
+    release: 27
+    mergedPR: 275
+    openPR: 43
+    closedIssue: 57
+    openIssue: 13
+    commit: 308
+  last720d:
+    since: 2024-12-08
+    release: 48
+    mergedPR: 429
+    openPR: 43
+    closedIssue: 158
+    openIssue: 15
+    commit: 483
 total:
   release: 190
-  mergedPR: 1878
-  openPR: 44
+  mergedPR: 1884
+  openPR: 43
   closedIssue: 1690
-  openIssue: 15
-  commit: 3977
+  openIssue: 18
+  commit: 3980
 ---
 path: /home/runner/.x-repo/github.com/markedjs/marked
-collectedAt: 2026-11-27T08:54:56Z
+collectedAt: 2026-11-28T08:19:04Z
 loc:
   Json:
     code: 21834
@@ -93,18 +93,18 @@ loc:
     blanks: 0
     files: 8
   JavaScript:
-    code: 7168
+    code: 7200
     comments: 116
-    blanks: 553
+    blanks: 559
     files: 57
   Html:
-    code: 5323
+    code: 5423
     comments: 41
     blanks: 690
-    files: 295
+    files: 297
   TypeScript:
-    code: 4111
-    comments: 659
+    code: 4116
+    comments: 661
     blanks: 511
     files: 17
   Css:
@@ -119,14 +119,14 @@ loc:
     files: 3
   Markdown:
     code: 0
-    comments: 5482
-    blanks: 2185
-    files: 308
+    comments: 5592
+    blanks: 2285
+    files: 310
 total:
-  code: 39622
-  comments: 6373
-  blanks: 4109
-  files: 693
+  code: 39759
+  comments: 6485
+  blanks: 4215
+  files: 697
 ---
 date: "2026-10-19"
 repo:
